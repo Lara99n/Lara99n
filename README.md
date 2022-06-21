@@ -55,6 +55,16 @@ Soy fanatica de la Luna y los atardeceres!
 
 <br/>
 <h2>PokeApi</h2>
+<h4>En el inicio del proyecto se pueden ver todos los pokemons ordenados en cartas personalizadas. Cuenta con un paginado, para poder ver a todos los pokemons de manera ordenada.
+Se puede:
+- Buscar al pokemon por su nombre atraves del buscador.
+- Ordenar ascendentemente y descendentemente por orden alfabético.
+- Ordenar ascendentemente y descendentemente por fuerza.
+- Filtrar por tipo de pokemon.
+- Filtrar por pokemons originales o los creados por el usuario.
+
+Tenemos la posibilidad de crear pokemons con los datos de nuestra preferencia, el formulario cuenta con sus respectivas validaciones.
+Cada carta va a tener acceso al detalle de cada pokemon, ya sean los pokemons originales o los creados por nosotros.</h4>
 <p>
 <img src="1.png"  width="420px" height="300px"/>
 <img src="2.png"  width="420px" height="300px"/>
