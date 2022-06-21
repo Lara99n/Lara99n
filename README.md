@@ -64,7 +64,7 @@ Soy fanatica de la Luna y los atardeceres!
 
 
 
-<span>PokeApi</span>
+<h2>PokeApi</h2>
 <p>
 <img src="1.png"  width="400px" height="300px"/>
 <img src="2.png"  width="400px" height="300px"/>
