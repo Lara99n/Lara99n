@@ -51,4 +51,4 @@
 <img src="barber6.png"  width="500px" height="310px"/>
 <img src="dasboard.png"  width="500px" height="310px"/>
 
-
+<p>PokeApi</p>
