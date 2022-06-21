@@ -3,6 +3,9 @@
  <img src="lara.gif" height="500px"/>
 
 <i align="left">Soy Programadora Full-Stack, pero me inclino mas por el Front-end.
+ Egresada del Bootcamp Soy Henry, donde aprendi a trabajar en equipo, a resolver problemas, y a tener paciencia 😅.
+ Actualmente sigo profundizando en las tecnologías que ya domino ya que me interesa ofrecer calidad en mi trabajo.
+ 
 Conoci la programacion en el 2021, y fue algo que me apaciono desde el primer momento.
 Todo lo que es referido a la tecnologia para mi es algo completamente nuevo, nunca antes pense que me iba a dedicar a esto, pero soy feliz programando, y siempre doy lo mejor de mi!.
 Me gusta trabajar en equipo, porque siento que aprendo muchisimo a la hora de ver como se maneja otro desarrollador.
