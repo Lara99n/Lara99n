@@ -22,9 +22,9 @@ Soy fanatica de la Luna y los atardeceres!
 
 <h3 align="left">Tecnologias:</h3>
 
-
+<p dir="auto">
 <span>Javascript</span> 
-<p  dir="auto">
+
 <img src="https://camo.githubusercontent.com/ebba410edfb05353d7b46b3107304e7deeee8c6c12bc8769115f2dce43d11da0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36612f4a6176615363726970742d6c6f676f2e706e67" width="40"/> 
 <br/>
 
@@ -49,7 +49,7 @@ Soy fanatica de la Luna y los atardeceres!
 
 <span>Git</span>
 <img src="https://camo.githubusercontent.com/54e37ab9cf255d29b617f989a6f46b39c9e27bc5311089cb3050a7f965b8e33c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30312f65352f30302f30316535303066636132396330343564343332623634663238356639633232392e706e67 "  width="40"/>
-
+</p>
  
 
 <h2>Barber App</h2>
