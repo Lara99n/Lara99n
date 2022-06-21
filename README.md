@@ -48,9 +48,9 @@ Soy fanatica de la Luna y los atardeceres!
 <img src="https://camo.githubusercontent.com/54e37ab9cf255d29b617f989a6f46b39c9e27bc5311089cb3050a7f965b8e33c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30312f65352f30302f30316535303066636132396330343564343332623634663238356639633232392e706e67 "  width="40" height="40"/>
 
 
-<p>
+
 <span>Proyecto Grupal</span>
-<p>
+
 <img src="barber1.png"  width="500px" height="310px"/>
 <img src="barber2.png"  width="500px" height="310px"/>
 <img src="barber.png"  width="500px" height="310px"/>
@@ -58,7 +58,7 @@ Soy fanatica de la Luna y los atardeceres!
 <img src="barber5.png"  width="500px" height="310px"/>
 <img src="barber6.png"  width="500px" height="310px"/>
 <img src="dasboard.png"  width="500px" height="310px"/>
-</p>
+
 
 
 <span>PokeApi</span>
@@ -70,4 +70,4 @@ Soy fanatica de la Luna y los atardeceres!
 <img src="detalle.png"  width="500px" height="500px"/>
 <img src="pikachu.png"  width="500px" height="500px"/>
 </p>
-</p>
+
