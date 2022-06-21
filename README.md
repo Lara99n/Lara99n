@@ -65,11 +65,11 @@ Soy fanatica de la Luna y los atardeceres!
 
 <h2>PokeApi</h2>
 <p>
-<img src="1.png"  width="400px" height="300px"/>
-<img src="2.png"  width="400px" height="300px"/>
-<img src="pokemon2.png" width="400px" height="300px"/>
-<img src="crear.png"  width="400px" height="300px"/>
-<img src="detalle.png"  width="400px" height="550px"/>
-<img src="pikachu.png"  width="400px" height="550px"/>
+<img src="1.png"  width="420px" height="300px"/>
+<img src="2.png"  width="420px" height="300px"/>
+<img src="pokemon2.png" width="420px" height="300px"/>
+<img src="crear.png"  width="420px" height="300px"/>
+<img src="detalle.png"  width="420px" height="550px"/>
+<img src="pikachu.png"  width="420px" height="550px"/>
 </p>
 
