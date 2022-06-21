@@ -54,10 +54,10 @@ Soy fanatica de la Luna y los atardeceres!
 
 <h2>Barber App</h2>
 <p>
-<img src="barber1.png"  width="400px" height="310px"/>
-<img src="barber2.png"  width="400px" height="310px"/>
-<img src="barber.png"  width="400px" height="310px"/>
-<img src="barber4.png"  width="400px" height="310px"/>
+<img src="barber1.png"  width="400px" height="350px"/>
+<img src="barber2.png"  width="400px" height="350px"/>
+<img src="barber.png"  width="400px" height="350px"/>
+<img src="barber4.png"  width="400px" height="350px"/>
 <img src="barber6.png"  width="400px" height="315px"/>
 <img src="dasboard.png"  width="400px" height="310px"/>
 </p>
