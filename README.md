@@ -59,6 +59,8 @@ Soy fanatica de la Luna y los atardeceres!
 <img src="barber6.png"  width="500px" height="310px"/>
 <img src="dasboard.png"  width="500px" height="310px"/>
 </p>
+
+<p>
 <p>PokeApi</p>
 <img src="1.png"  width="500px" height="310px"/>
 <img src="2.png"  width="500px" height="310px"/>
@@ -66,3 +68,4 @@ Soy fanatica de la Luna y los atardeceres!
 <img src="crear.png"  width="500px" height="310px"/>
 <img src="detalle.png"  width="500px" height="500px"/>
 <img src="pikachu.png"  width="500px" height="500px"/>
+</p>
