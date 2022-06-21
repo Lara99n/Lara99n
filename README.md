@@ -45,7 +45,7 @@
 
 <img src="barber1.png"  width="500px" height="310px"/>
 <img src="barber2.png"  width="500px" height="310px"/>
-<img src="barber3.png"  width="500px" height="310px"/>
+<img src="barber.png"  width="500px" height="310px"/>
 <img src="barber4.png"  width="500px" height="310px"/>
 <img src="barber5.png"  width="500px" height="310px"/>
 <img src="barber6.png"  width="500px" height="310px"/>
