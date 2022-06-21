@@ -52,4 +52,4 @@
 <img src="dasboard.png"  width="500px" height="310px"/>
 
 <p>PokeApi</p>
-<img src="1"  width="500px" height="310px"/>
+<img src="1.png"  width="500px" height="310px"/>
