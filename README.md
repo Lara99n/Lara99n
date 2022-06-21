@@ -44,6 +44,21 @@ Soy fanatica de la Luna y los atardeceres!
 <h2>Mis proyectos:</h2>
 
 <h3>Barber App</h3>
+<h5>
+Proyecto Final junto a mis compañeros de Bootcamp.
+Nuestro proyecto se basa en una barberia en la cual se pueden reservas citas y comprar productos.
+
+El usuario va a tener la opcion de elegir el servicio, al barbero, la fecha y la hora que desee. Una vez creada la cita al usuario le llegara un mail de confirmacion.
+Desde su perfil podra ver las citas que tenga pendientes o las que ya hayan finalizado, y podra cancelar una cita si asi lo desea.
+La fecha y hora que ya esten reservadas automaticamente apareceran ocupadas para otros usuario.
+
+El usuario tambien podra comprar productos de la barberia, tendra la opcion de agregar los productos a sus favoritos y volver a verlos cuando quiera.
+Utilizamos la plataforma de Mercado Pago para una mejor experiencia.
+Una vez hecha la compra le llegara un mail de confirmacion.
+Y podra ver los productos que haya comprado en su perfil, con toda la informacion detallada.
+Desde el lado del administador, se podra agregar, editar, activar/desacrivar segun su stock productos. Tambien podremos agregar y editar servicios. 
+Podemos agregar, activar/desactivar empleados. Y activar o bannear usuarios.
+Toda la informacion se podra ver desde un Dasboard para tener un panorama mas general del mismo.</h5>
 <p>
 <img src="barber1.png"  width="420px" height="310px"/>
 <img src="barber2.png"  width="420px" height="310px"/>
@@ -55,17 +70,17 @@ Soy fanatica de la Luna y los atardeceres!
 
 <br/>
 <h2>PokeApi</h2>
-<h4>En el inicio del proyecto se pueden ver todos los pokemons ordenados en cartas personalizadas. Cuenta con un paginado, para poder ver a todos los pokemons de manera ordenada.
- <h5>
+<h5>En el inicio del proyecto se pueden ver todos los pokemons ordenados en cartas personalizadas. Cuenta con un paginado, para poder ver a todos los pokemons de manera ordenada.
+
 Se puede:
 - Buscar al pokemon por su nombre atraves del buscador.
 - Ordenar ascendentemente y descendentemente por orden alfabético.
 - Ordenar ascendentemente y descendentemente por fuerza.
 - Filtrar por tipo de pokemon.
 - Filtrar por pokemons originales o los creados por el usuario.
-</h5>
+
 Tenemos la posibilidad de crear pokemons con los datos de nuestra preferencia, el formulario cuenta con sus respectivas validaciones.
-Cada carta va a tener acceso al detalle de cada pokemon, ya sean los pokemons originales o los creados por nosotros.</h4>
+Cada carta va a tener acceso al detalle de cada pokemon, ya sean los pokemons originales o los creados por nosotros.</h5>
 <p>
 <img src="1.png"  width="420px" height="300px"/>
 <img src="2.png"  width="420px" height="300px"/>
