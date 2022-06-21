@@ -15,7 +15,6 @@ Soy fanatica de la Luna y los atardeceres!
 <h3 align="left">Tecnologias:</h3>
 
 <h4>FrontEnd</4>
-<br/>
 <p>
  <img src="https://camo.githubusercontent.com/ebba410edfb05353d7b46b3107304e7deeee8c6c12bc8769115f2dce43d11da0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36612f4a6176615363726970742d6c6f676f2e706e67" width="40"/> 
 
@@ -30,7 +29,7 @@ Soy fanatica de la Luna y los atardeceres!
  
  <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"  width="40"/>
 
-<img src="https://camo.githubusercontent.com/cb2c9bbbe7f9f0ca8a28455107c3a7b1b98040c605eae0893d890e40955f563e/68747470733a2f2f692e6962622e636f2f784736676d66632f3538343832656534636566313031346330623565346137352d312e706e67"  width="40" />
+<img src="https://camo.githubusercontent.com/cb2c9bbbe7f9f0ca8a28455107c3a7b1b98040c605eae0893d890e40955f563e/68747470733a2f2f692e6962622e636f2f784736676d66632f3538343832656534636566313031346330623565346137352d312e706e67" width="40" />
  
  <img src="https://camo.githubusercontent.com/7072b110e23339ac00169ad3337ee267ef4cd533171787b9fd7852e2e8bb08f2/68747470733a2f2f63646e2e706978616261792e636f6d2f70686f746f2f323031352f30342f32332f31372f34312f6e6f64652d6a732d3733363339395f3936305f3732302e706e67"  width="60" />
 
@@ -53,7 +52,7 @@ Soy fanatica de la Luna y los atardeceres!
 <img src="dasboard.png"  width="420px" height="310px"/>
 </p>
 
-<hr/>
+<br/>
 <h2>PokeApi</h2>
 <p>
 <img src="1.png"  width="420px" height="300px"/>
