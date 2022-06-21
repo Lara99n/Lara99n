@@ -2,7 +2,7 @@
 
  <img src="lara.gif" height="500px"/>
 
-<i align="left">Soy Programadora Full-Stack, pero me inclino mas por el Front-end.
+<i align="left">Soy Programadora Full-Stack, pero me inclino mas por el Front-end⚛️.
  Egresada del Bootcamp Soy Henry, donde aprendi a trabajar en equipo, a resolver problemas, y a tener paciencia 😅.
  Actualmente sigo profundizando en las tecnologías que ya domino ya que me interesa ofrecer calidad en mi trabajo.
  
