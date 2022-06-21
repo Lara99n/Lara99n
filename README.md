@@ -12,6 +12,8 @@ Soy fanatica de la Luna y los atardeceres!
  </h2>
 
 
+
+
 <h3 align="left">Linkedin</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lara-albornoz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lara-albornoz/" height="30" width="40" /></a>
@@ -52,7 +54,7 @@ Soy fanatica de la Luna y los atardeceres!
 
 <span>Proyecto Grupal</span>
 
-<img src="barber1.png"  width="500px" height="310px"/>
+<img src="barber1.png"  width="500px" />
 <img src="barber2.png"  width="500px" height="310px"/>
 <img src="barber.png"  width="500px" height="310px"/>
 <img src="barber4.png"  width="500px" height="310px"/>
