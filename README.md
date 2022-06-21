@@ -12,7 +12,7 @@ Soy fanatica de la Luna y los atardeceres!
  </i>
 
 
-<h3 align="left">Tecnologias:</h3>
+<h2 align="left">Tecnologias:</h2>
 
 <h4>FrontEnd</4>
 <p>
@@ -41,9 +41,9 @@ Soy fanatica de la Luna y los atardeceres!
 <img src="https://camo.githubusercontent.com/54e37ab9cf255d29b617f989a6f46b39c9e27bc5311089cb3050a7f965b8e33c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30312f65352f30302f30316535303066636132396330343564343332623634663238356639633232392e706e67 "  width="40"/>
 </p>
  
-<h2>Mis proyectos</h2>
+<h2>Mis proyectos:</h2>
 <br/>
-<h2>Barber App</h2>
+<h3>Barber App</h3>
 <p>
 <img src="barber1.png"  width="420px" height="310px"/>
 <img src="barber2.png"  width="420px" height="310px"/>
