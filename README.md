@@ -54,7 +54,7 @@ Soy fanatica de la Luna y los atardeceres!
 
 <span>Proyecto Grupal</span>
 <p>
-<img src="barber1.png"  width="400px" />
+<img src="barber1.png"  width="400px" height="310px"/>
 <img src="barber2.png"  width="400px" height="310px"/>
 <img src="barber.png"  width="400px" height="310px"/>
 <img src="barber5.png"  width="400px" height="310px"/>
