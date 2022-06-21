@@ -53,15 +53,15 @@ Soy fanatica de la Luna y los atardeceres!
 </p>
 
 <span>Proyecto Grupal</span>
-
-<img src="barber1.png"  width="500px" />
-<img src="barber2.png"  width="500px" height="310px"/>
-<img src="barber.png"  width="500px" height="310px"/>
-<img src="barber4.png"  width="500px" height="310px"/>
-<img src="barber5.png"  width="500px" height="310px"/>
-<img src="barber6.png"  width="500px" height="310px"/>
-<img src="dasboard.png"  width="500px" height="310px"/>
-
+<p>
+<img src="barber1.png"  width="400px" />
+<img src="barber2.png"  width="400px" height="310px"/>
+<img src="barber.png"  width="400px" height="310px"/>
+<img src="barber4.png"  width="400px" height="310px"/>
+<img src="barber5.png"  width="400px" height="310px"/>
+<img src="barber6.png"  width="400px" height="310px"/>
+<img src="dasboard.png"  width="400px" height="310px"/>
+</p>
 
 
 <h2>PokeApi</h2>
