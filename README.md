@@ -22,9 +22,9 @@ Soy fanatica de la Luna y los atardeceres!
 <img src="https://camo.githubusercontent.com/b2cb9808399ad53bdcf25e6e1d4906ced494ad70fc7a6de5cb2b6c552f77870f/68747470733a2f2f6272616e64736c6f676f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f696d616765732f6c617267652f72656475782d6c6f676f2e706e67"  width="40" />
  </p>
  
-<p>
-
+ 
 <h4>BackEnd & DataBase</h4>
+<p>
 <img src="https://camo.githubusercontent.com/22623d91d9cfe8469a76892f9af3cb9dde4cd7572c23fbb9754e98a6be48598c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3438302f706f73746772656573716c2e706e67" width="40" />
  
  <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"  width="40"/>
