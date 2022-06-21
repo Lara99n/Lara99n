@@ -3,7 +3,8 @@
 <!--
 **Lara99n/Lara99n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:![68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e6769663f6369643d3739306237363131346336613161613238306336623239666664613436616536643965656630](https://user-images.githubusercontent.com/91375775/174866707-de501f7f-1851-4e8c-b8d5-795ccde8eb14.gif)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
