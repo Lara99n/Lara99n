@@ -56,5 +56,5 @@
 <img src="2.png"  width="500px" height="310px"/>
 <img src="pokemon2.png"  width="500px" height="310px"/>
 <img src="crear.png"  width="500px" height="310px"/>
-<img src="detalle.png"  width="500px" height="310px"/>
-<img src="1.pikachu"  width="500px" height="310px"/>
+<img src="detalle.png"  width="700px" height="310px"/>
+<img src="pikachu.png"  width="700px" height="310px"/>
