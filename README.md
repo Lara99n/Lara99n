@@ -60,8 +60,9 @@ Soy fanatica de la Luna y los atardeceres!
 <img src="dasboard.png"  width="500px" height="310px"/>
 </p>
 
-<p>
+
 <span>PokeApi</span>
+ <p>
 <img src="1.png"  width="500px" height="310px"/>
 <img src="2.png"  width="500px" height="310px"/>
 <img src="pokemon2.png"  width="500px" height="310px"/>
