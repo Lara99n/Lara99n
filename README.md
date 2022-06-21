@@ -1,6 +1,6 @@
 ### Bienvenidos!! 👋
 
- <img src="lara.gif"/>
+ <img src="lara.gif" height="70" width="40"/>
 
 <p>
 
@@ -49,5 +49,7 @@
 <img src="barber3.png"  width="500px" height="310px"/>
 <img src="barber4.png"  width="500px" height="310px"/>
 <img src="barber5.png"  width="500px" height="310px"/>
+<img src="barber6.png"  width="500px" height="310px"/>
 <img src="dasboard.png"  width="500px" height="310px"/>
+
 
