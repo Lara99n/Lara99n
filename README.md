@@ -5,6 +5,7 @@
 <i align="left">Soy Programadora Full-Stack, con orientacion al Front-end⚛️.
  <br/>
  Egresada del Bootcamp Soy Henry, donde aprendi a trabajar en equipo, a resolver problemas, y a tener paciencia 😅.
+ <br/>
  Actualmente sigo profundizando en las tecnologías que ya domino ya que me interesa ofrecer calidad en mi trabajo.
  
 Conoci la programacion en el 2021, y fue algo que me apaciono desde el primer momento.
