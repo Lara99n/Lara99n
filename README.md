@@ -3,7 +3,7 @@
 
 
 
-<img src="https//github.com/Lara99n/Lara99n/blob/main/lara.gif"/>
+<img src="lara.gif"/>
 
 
 
