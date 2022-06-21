@@ -43,4 +43,5 @@
 
 
 Proyecto Grupal 
+<img src"barber1"/>
 
