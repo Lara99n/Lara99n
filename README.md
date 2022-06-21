@@ -67,9 +67,9 @@ Soy fanatica de la Luna y los atardeceres!
 <p>
 <img src="1.png"  width="400px" height="300px"/>
 <img src="2.png"  width="400px" height="300px"/>
-<img src="pokemon2.png"  width="400px" height="300px"/>
+<img src="pokemon2.png" width="400px" height="300px"/>
 <img src="crear.png"  width="400px" height="300px"/>
-<img src="detalle.png"  width="400px" height="510px"/>
-<img src="pikachu.png"  width="400px" height="510px"/>
+<img src="detalle.png"  width="400px" height="550px"/>
+<img src="pikachu.png"  width="400px" height="550px"/>
 </p>
 
