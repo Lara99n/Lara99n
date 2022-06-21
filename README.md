@@ -44,5 +44,5 @@
 
 <p>Proyecto Grupal </p>
 
-<img src="barber1.png"  width="150" height="150"/>
+<img src="barber1.png"  width="150px" height="150px"/>
 
