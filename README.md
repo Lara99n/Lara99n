@@ -59,7 +59,7 @@ Soy fanatica de la Luna y los atardeceres!
 <img src="barber.png"  width="400px" height="310px"/>
 <img src="barber4.png"  width="400px" height="310px"/>
 <img src="barber5.png"  width="400px" height="310px"/>
-<img src="barber6.png"  width="400px" height="310px"/>
+<img src="barber6.png"  width="400px" height="315px"/>
 <img src="dasboard.png"  width="400px" height="310px"/>
 </p>
 
