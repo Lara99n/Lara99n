@@ -42,7 +42,7 @@ Soy fanatica de la Luna y los atardeceres!
 </p>
  
 <h2>Mis proyectos:</h2>
-<br/>
+
 <h3>Barber App</h3>
 <p>
 <img src="barber1.png"  width="420px" height="310px"/>
