@@ -1,6 +1,6 @@
 ### Bienvenidos!! 👋
 
- <img src="lara.gif" height="200px" width="200px"/>
+ <img src="lara.gif" height="1000px" width="1000px"/>
 
 <p>
 
