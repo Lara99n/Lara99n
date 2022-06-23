@@ -49,7 +49,7 @@ Soy fanatica de la Luna y los atardeceres!
 <h2>Mis proyectos:</h2>
 
 <h3>Barber App</h3>
-<h5>
+<h4>
 Proyecto Final junto a mis compañeros de Bootcamp.
 Nuestro proyecto se basa en una barberia en la cual se pueden reservas citas y comprar productos.
 
@@ -63,7 +63,7 @@ Una vez hecha la compra le llegara un mail de confirmacion.
 Y podra ver los productos que haya comprado en su perfil, con toda la informacion detallada.
 Desde el lado del administador, se podra agregar, editar, activar/desacrivar segun su stock productos. Tambien podremos agregar y editar servicios. 
 Podemos agregar, activar/desactivar empleados. Y activar o bannear usuarios.
-Toda la informacion se podra ver desde un Dasboard para tener un panorama mas general del mismo.</h5>
+Toda la informacion se podra ver desde un Dasboard para tener un panorama mas general del mismo.</h4>
  <p> <a href="https://www.youtube.com/watch?v=QCSgfFIZnv4">Video BarberApp</a></p>
 <p>
 <img src="barber1.png"  width="420px" height="310px"/>
