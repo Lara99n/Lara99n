@@ -75,7 +75,7 @@ Toda la informacion se podra ver desde un Dasboard para tener un panorama mas ge
 
 <br/>
 <h2>PokeApi</h2>
-<a href="https://www.youtube.com/watch?v=ul_qovl4R0M"</a>
+<p>Este es un <a href="https://www.youtube.com/watch?v=ul_qovl4R0M">enlace al principio de esta página</a>.</p>
 <h5>En el inicio del proyecto se pueden ver todos los pokemons ordenados en cartas personalizadas. Cada carta va a tener acceso al detalle de cada pokemon, ya sean los pokemons originales o los creados por nosotros.
 La api cuenta con un paginado, para poder ver a todos los pokemons de manera ordenada.
  
