@@ -93,7 +93,7 @@ Se puede:
 <img src="2.png"  width="420px" height="300px"/>
 <img src="pokemon2.png" width="420px" height="300px"/>
 <img src="crear.png"  width="420px" height="300px"/>
-<img src="detalle.png"  width="420px" height="550px"/>
-<img src="pikachu.png"  width="420px" height="550px"/>
+<img src="pokebenasaur.png"  width="420px" height="300px"/>
+<img src="pika.png"  width="420px" height="300px"/>
 </p>
 
