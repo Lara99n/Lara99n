@@ -64,7 +64,7 @@ Y podra ver los productos que haya comprado en su perfil, con toda la informacio
 Desde el lado del administador, se podra agregar, editar, activar/desacrivar segun su stock productos. Tambien podremos agregar y editar servicios. 
 Podemos agregar, activar/desactivar empleados. Y activar o bannear usuarios.
 Toda la informacion se podra ver desde un Dasboard para tener un panorama mas general del mismo.</h4>
- <p> <a href="https://www.youtube.com/watch?v=QCSgfFIZnv4">Video BarberApp</a></p>
+ <p> <a href="https://www.youtube.com/watch?v=QCSgfFIZnv4" target="_blank">Video BarberApp</a></p>
 <p>
 <img src="barber1.png"  width="420px" height="310px"/>
 <img src="barber2.png"  width="420px" height="310px"/>
@@ -86,7 +86,7 @@ Se puede:
 - Filtrar por tipo de pokemon.
 - Filtrar por pokemons originales o los creados por el usuario.
 - Tenemos la posibilidad de crear pokemons con los datos de nuestra preferencia. El formulario cuenta con sus respectivas validaciones.
- <p> <a href="https://www.youtube.com/watch?v=ul_qovl4R0M">Video PokeApi</a></p>
+ <p> <a href="https://www.youtube.com/watch?v=ul_qovl4R0M" target="_blank">Video PokeApi</a></p>
 </h4>
 <p>
 <img src="1.png"  width="420px" height="300px"/>
