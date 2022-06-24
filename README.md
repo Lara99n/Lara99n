@@ -64,7 +64,7 @@ Y podra ver los productos que haya comprado en su perfil, con toda la informacio
 Desde el lado del administador, se podra agregar, editar, activar/desacrivar segun su stock productos. Tambien podremos agregar y editar servicios. 
 Podemos agregar, activar/desactivar empleados. Y activar o bannear usuarios.
 Toda la informacion se podra ver desde un Dasboard para tener un panorama mas general del mismo.</h4>
- <p> <a href="https://www.youtube.com/watch?v=QCSgfFIZnv4" target="_blank">Video BarberApp</a></p>
+ <p> <a target="_blank" href="https://www.youtube.com/watch?v=QCSgfFIZnv4" >Video BarberApp</a></p>
 <p>
 <img src="barber1.png"  width="420px" height="310px"/>
 <img src="barber2.png"  width="420px" height="310px"/>
