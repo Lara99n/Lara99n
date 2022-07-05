@@ -10,7 +10,8 @@
  
 Conoci la programacion en el 2021, y fue algo que me apaciono desde el primer momento.
 Todo lo que es referido a la tecnologia para mi es algo completamente nuevo, nunca antes pense que me iba a dedicar a esto, pero soy feliz programando, y siempre doy lo mejor de mi✨.
-Me gusta trabajar en equipo, porque siento que aprendo muchisimo a la hora de ver como se maneja otro desarrollador, lo considero clave a la hora de trabajar!
+ Disfruto trabajar en equipo, ya que puedo conocer diferentes puntos de vista ante la
+solución de un problema, lo considero clave a la hora de trabajar!
 
 Aspiro a viajar por el mundo y conocer lugares nuevos. Amo estar rodeada de gente que me hace bien. 
 Soy fanatica de la Luna y los atardeceres! 
