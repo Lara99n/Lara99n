@@ -1,4 +1,4 @@
-### <h1>Hola Mundoo!! ![HeartWorldGIF](https://user-images.githubusercontent.com/91375775/177653572-bebec1fd-d896-418a-aa7f-85e8d341b0ec.gif) width="40"
+### <h1>Hola Mundoo!! 🌎
 </h1> 
 
  <img src="lara.gif" height="500px"/>
